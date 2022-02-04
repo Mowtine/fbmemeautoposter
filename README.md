@@ -1,3 +1,5 @@
+AS OF 2021 FB NO LONGER SUPPORTS PAGE SCRIPTING AS DONE HERE.
+
 This is a small python script I made for use in one of my small side-projects.
 
 It just makes it easier for me to post a meme a day on a FB page, without me
